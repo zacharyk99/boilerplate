@@ -1,0 +1,45 @@
+html {
+    font-size: 62.5%
+}
+
+/* Mobile first css */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.6rem;
+}
+
+header,
+footer {
+    text-align: center;
+    line-height: 3;
+    font-size: 2rem;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+main {
+    margin-top: 2rem;
+    padding: 1rem;
+}
+
+fieldset {
+    border: none;
+    border-radius: 5px;
+}
+
+label {
+    display: block;
+}
+
+input,
+textarea {
+    width: 100%;
+    border: 1px solid;
+    background-color: #edeff0;
+}
+
+fieldset > div {
+    margin-bottom: 1.5rem;
+}
